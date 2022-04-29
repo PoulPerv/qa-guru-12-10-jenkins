@@ -31,7 +31,6 @@ public class SystemPropertiesTests {
         System.out.println(browser); // safari
     }
 
-
     @Test
     @Tag("test5")
     void someTest5() {
@@ -54,8 +53,6 @@ public class SystemPropertiesTests {
                 99
                 300x300
          */
-
-
     }
 
     @Test
